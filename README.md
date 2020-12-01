@@ -8,3 +8,4 @@ Drive real-time help desk suggestions to reduce bandwidth required from agents. 
 
 SKU: INTEN-PS-PCM-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-ak62dvvzd7h5s
